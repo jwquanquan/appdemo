@@ -145,14 +145,14 @@
   left:0px;
   top:0px;
   width:146px;
-  height:171px;
+  height:151px;
 }
 #u8 {
   position:absolute;
   left:14px;
   top:251px;
   width:141px;
-  height:167px;
+  height:147px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -161,14 +161,14 @@
 }
 #u8_img.selected {
   width:143px;
-  height:169px;
+  height:149px;
 }
 #u8.selected {
 }
 #u9 {
   position:absolute;
   left:2px;
-  top:76px;
+  top:66px;
   width:137px;
   visibility:hidden;
   word-wrap:break-word;
@@ -178,14 +178,14 @@
   left:0px;
   top:0px;
   width:191px;
-  height:174px;
+  height:149px;
 }
 #u10 {
   position:absolute;
   left:176px;
-  top:368px;
+  top:372px;
   width:186px;
-  height:170px;
+  height:145px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -194,14 +194,14 @@
 }
 #u10_img.selected {
   width:188px;
-  height:172px;
+  height:147px;
 }
 #u10.selected {
 }
 #u11 {
   position:absolute;
   left:2px;
-  top:77px;
+  top:64px;
   width:182px;
   visibility:hidden;
   word-wrap:break-word;
@@ -211,14 +211,14 @@
   left:0px;
   top:0px;
   width:146px;
-  height:107px;
+  height:106px;
 }
 #u12 {
   position:absolute;
   left:14px;
-  top:436px;
+  top:414px;
   width:141px;
-  height:103px;
+  height:102px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -227,14 +227,14 @@
 }
 #u12_img.selected {
   width:143px;
-  height:105px;
+  height:104px;
 }
 #u12.selected {
 }
 #u13 {
   position:absolute;
   left:2px;
-  top:44px;
+  top:43px;
   width:137px;
   visibility:hidden;
   word-wrap:break-word;
@@ -370,15 +370,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:58px;
-  height:55px;
+  width:68px;
+  height:70px;
 }
 #u22 {
   position:absolute;
-  left:237px;
-  top:408px;
-  width:58px;
-  height:55px;
+  left:227px;
+  top:393px;
+  width:68px;
+  height:70px;
 }
 #u22_img.selected {
 }
@@ -387,8 +387,8 @@
 #u23 {
   position:absolute;
   left:2px;
-  top:20px;
-  width:54px;
+  top:27px;
+  width:64px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -402,7 +402,7 @@
 #u24 {
   position:absolute;
   left:22px;
-  top:443px;
+  top:426px;
   width:35px;
   height:34px;
 }
@@ -665,7 +665,7 @@
 #u38 {
   position:absolute;
   left:43px;
-  top:495px;
+  top:478px;
   width:73px;
   height:24px;
   font-family:'微软雅黑 Regular', '微软雅黑';
@@ -741,7 +741,7 @@
   left:14px;
   top:251px;
   width:141px;
-  height:167px;
+  height:147px;
   overflow:hidden;
 }
 #u42_state0 {
@@ -749,7 +749,7 @@
   left:0px;
   top:0px;
   width:141px;
-  height:167px;
+  height:147px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -792,18 +792,18 @@
 }
 #u44 {
   position:absolute;
-  left:174px;
-  top:368px;
-  width:189px;
-  height:170px;
+  left:175px;
+  top:372px;
+  width:188px;
+  height:145px;
   overflow:hidden;
 }
 #u44_state0 {
   position:absolute;
   left:0px;
   top:0px;
-  width:189px;
-  height:170px;
+  width:188px;
+  height:145px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -820,7 +820,7 @@
 #u45 {
   position:absolute;
   left:14px;
-  top:436px;
+  top:414px;
   width:141px;
   height:103px;
   overflow:hidden;
@@ -914,7 +914,7 @@
 #u50 {
   position:absolute;
   left:139px;
-  top:566px;
+  top:540px;
   width:93px;
   height:40px;
 }
@@ -930,7 +930,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:117px;
+  width:179px;
   height:23px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -944,23 +944,25 @@
   font-style:normal;
   font-size:13px;
   color:rgba(255, 255, 255, 0.698039215686274);
+  text-align:center;
 }
 #u52 {
   position:absolute;
-  left:242px;
-  top:589px;
-  width:117px;
+  left:96px;
+  top:590px;
+  width:179px;
   height:23px;
   font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:13px;
   color:rgba(255, 255, 255, 0.698039215686274);
+  text-align:center;
 }
 #u53 {
   position:absolute;
   left:0px;
-  top:0px;
-  width:117px;
+  top:4px;
+  width:179px;
   word-wrap:break-word;
 }
