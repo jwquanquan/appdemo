@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:375px;
+  width:414px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -16,8 +16,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:375px;
-  height:647px;
+  width:414px;
+  height:716px;
   background:inherit;
   background-color:rgba(0, 0, 0, 0.8);
   border:none;
@@ -30,14 +30,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:375px;
-  height:647px;
+  width:414px;
+  height:716px;
 }
 #u1367 {
   position:absolute;
   left:2px;
-  top:316px;
-  width:371px;
+  top:350px;
+  width:410px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -107,7 +107,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:373px;
+  width:410px;
   height:480px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0.8);
@@ -121,16 +121,16 @@
 }
 #u1372 {
   position:absolute;
-  left:1px;
-  top:167px;
-  width:373px;
+  left:2px;
+  top:170px;
+  width:410px;
   height:480px;
 }
 #u1373 {
   position:absolute;
   left:2px;
   top:232px;
-  width:369px;
+  width:406px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -237,14 +237,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:376px;
+  width:415px;
   height:49px;
 }
 #u1380 {
   position:absolute;
   left:0px;
   top:118px;
-  width:375px;
+  width:414px;
   height:48px;
   opacity:0.8;
 }
@@ -252,7 +252,7 @@
   position:absolute;
   left:2px;
   top:16px;
-  width:371px;
+  width:410px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -1008,8 +1008,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:361px;
-  height:327px;
+  width:400px;
+  height:448px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0.4);
   box-sizing:border-box;
@@ -1025,14 +1025,14 @@
   position:absolute;
   left:6px;
   top:185px;
-  width:361px;
-  height:327px;
+  width:400px;
+  height:448px;
 }
 #u1424 {
   position:absolute;
   left:2px;
-  top:156px;
-  width:357px;
+  top:216px;
+  width:396px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -1976,7 +1976,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:237px;
+  width:262px;
   height:48px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1993,9 +1993,9 @@
 }
 #u1479 {
   position:absolute;
-  left:130px;
+  left:144px;
   top:118px;
-  width:237px;
+  width:262px;
   height:48px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
@@ -2007,7 +2007,7 @@
   position:absolute;
   left:0px;
   top:10px;
-  width:237px;
+  width:262px;
   word-wrap:break-word;
 }
 #u1481 {
