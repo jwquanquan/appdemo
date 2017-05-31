@@ -13,6 +13,8 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 ._图片 {
 }
 .placeholder {
@@ -73,6 +75,9 @@
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
 .radio_button {
   text-align:left;
 }
@@ -82,4 +87,11 @@
   color:#000000;
 }
 .icon {
+}
+._图片2 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
 }
