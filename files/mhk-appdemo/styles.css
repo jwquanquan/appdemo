@@ -111,15 +111,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:210px;
-  height:134px;
+  width:191px;
+  height:109px;
 }
 #u6 {
   position:absolute;
-  left:189px;
-  top:273px;
-  width:205px;
-  height:130px;
+  left:199px;
+  top:286px;
+  width:186px;
+  height:105px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -127,16 +127,16 @@
   color:#FFFFFF;
 }
 #u6_img.selected {
-  width:207px;
-  height:132px;
+  width:188px;
+  height:107px;
 }
 #u6.selected {
 }
 #u7 {
   position:absolute;
   left:2px;
-  top:57px;
-  width:201px;
+  top:44px;
+  width:182px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -145,14 +145,14 @@
   left:0px;
   top:0px;
   width:159px;
-  height:174px;
+  height:150px;
 }
 #u8 {
   position:absolute;
   left:14px;
-  top:273px;
+  top:286px;
   width:154px;
-  height:170px;
+  height:146px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -161,14 +161,14 @@
 }
 #u8_img.selected {
   width:156px;
-  height:172px;
+  height:148px;
 }
 #u8.selected {
 }
 #u9 {
   position:absolute;
   left:2px;
-  top:77px;
+  top:65px;
   width:150px;
   visibility:hidden;
   word-wrap:break-word;
@@ -210,15 +210,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:172px;
-  height:131px;
+  width:159px;
+  height:120px;
 }
 #u12 {
   position:absolute;
   left:14px;
   top:453px;
-  width:167px;
-  height:127px;
+  width:154px;
+  height:116px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -226,16 +226,16 @@
   color:#FFFFFF;
 }
 #u12_img.selected {
-  width:169px;
-  height:129px;
+  width:156px;
+  height:118px;
 }
 #u12.selected {
 }
 #u13 {
   position:absolute;
   left:2px;
-  top:56px;
-  width:163px;
+  top:50px;
+  width:150px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -665,7 +665,7 @@
 #u38 {
   position:absolute;
   left:35px;
-  top:533px;
+  top:527px;
   width:101px;
   height:32px;
   font-family:'微软雅黑 Regular', '微软雅黑';
@@ -739,9 +739,9 @@
 #u42 {
   position:absolute;
   left:15px;
-  top:285px;
+  top:286px;
   width:153px;
-  height:147px;
+  height:146px;
   overflow:hidden;
 }
 #u42_state0 {
@@ -749,7 +749,7 @@
   left:0px;
   top:0px;
   width:153px;
-  height:147px;
+  height:146px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -819,18 +819,18 @@
 }
 #u45 {
   position:absolute;
-  left:15px;
-  top:463px;
-  width:166px;
-  height:102px;
+  left:14px;
+  top:453px;
+  width:154px;
+  height:116px;
   overflow:hidden;
 }
 #u45_state0 {
   position:absolute;
   left:0px;
   top:0px;
-  width:166px;
-  height:102px;
+  width:154px;
+  height:116px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
